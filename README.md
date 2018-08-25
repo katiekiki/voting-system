@@ -1,4 +1,4 @@
-# Entity Voting application for Disney 
+# Entity Voting application 
 
 Capture votes and display the results for a set of entities. The
 entites could be videos (e.g.  youtube), pages or URLs (e.g.
